@@ -1,2 +1,2 @@
 # Docz Site Demo
-A sample documentation site created with Docz
+A sample documentation site created with Docz.
